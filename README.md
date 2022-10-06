@@ -1,2 +1,2 @@
 # Hopital-System
-Allow you to track prescriptions and and dosages
+Allow you to track prescriptions and dosages
